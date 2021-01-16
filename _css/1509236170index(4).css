@@ -1,0 +1,123 @@
+@import url("https://web.archive.org/web/20190120125911cs_/http://fonts.googleapis.com/css?family=Lato:400,300,700&subset=latin,latin-ext");
+.clearfix {
+clear: both;
+}
+button#catapultCookie {
+color: #fff !important;
+border: 1px solid #BA8800 !important;
+background: #BA8800 !important;
+-webkit-transition: all 0.25s linear;
+-moz-transition: all 0.25s linear;
+-ms-transition: all 0.25s linear;
+-o-transition: all 0.25s linear;
+transition: all 0.25s linear;
+}
+.madeby {
+float: right;
+text-align: right;}
+button#catapultCookie:hover, 
+button#catapultCookie:active,
+button#catapultCookie:focus {
+color: #BA8800 !important;
+border: 1px solid #BA8800 !important;
+background: #fff !important;
+}
+a {
+-webkit-transition: all 0.25s linear;
+-moz-transition: all 0.25s linear;
+-ms-transition: all 0.25s linear;
+-o-transition: all 0.25s linear;
+transition: all 0.25s linear;
+}
+.entry-content ul {
+list-style: outside none disc;
+}
+html #featured-slider .entry-description-container {
+background-color: rgba(0, 0, 0 , 0.8);
+}
+#controllers a {
+background-color: #ddd;
+color: #ddd;
+}
+.home .contact-form .input {
+display: inline-block;
+max-width: 48%;
+float: left;
+}
+.home .contact-form .input input {
+padding: 2%;
+}
+html .gallery dl a img {
+max-height: 142px;
+}
+@media all and (min-width: 750px) {
+.home .contact-form .wpcf7-submit {
+width: 49%;
+}
+.home .contact-form .textarea {
+display: inline-block;
+width: 48%;
+float: right;
+resize: vertical;
+}
+.home .contact-form .textarea textarea {
+padding: 2%;
+height: 144px;
+}
+}
+.home .contact-form p {
+text-align: left;
+}
+.ajax-loader {
+position: fixed;
+top: 50%;
+left: 50%;
+}
+.wpcf7 .captcha .wpcf7-form-control-wrap {
+width: auto;
+}
+.wpcf7 .wpcf7-form-control-wrap {
+width: 100%;
+height: auto !important;
+display: inline-block !important;
+}
+span.wpcf7-not-valid-tip {
+display: none;
+}
+div.wpcf7-response-output {
+width: 94%;
+clear: both;
+margin: 20px 0px;
+}
+.wpcf7-not-valid {
+-webkit-transition: all 0.2s linear;
+-moz-transition: all 0.2s linear;
+-ms-transition: all 0.2s linear;
+-o-transition: all 0.2s linear;
+transition: all 0.2s linear;
+border: 1px solid #951b42 !important;
+}
+.textwidget {
+text-align: justify;
+}
+/*
+     FILE ARCHIVED ON 12:59:11 Jan 20, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:06:08 Jan 11, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  PetaboxLoader3.resolve: 198.894 (3)
+  load_resource: 303.842 (2)
+  captures_list: 161.208
+  LoadShardBlock: 130.77 (3)
+  esindex: 0.013
+  RedisCDXSource: 1.961
+  exclusion.robots.policy: 0.239
+  CDXLines.iter: 24.464 (3)
+  exclusion.robots: 0.253
+  PetaboxLoader3.datanode: 187.155 (5)
+*/

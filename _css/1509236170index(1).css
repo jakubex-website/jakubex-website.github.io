@@ -1,0 +1,58 @@
+#commentform .gglcptch {
+margin: 0 0 10px;
+}
+#recaptcha_response_field {
+height: 17px !important;
+max-height: 35px !important;
+font-size: 10pt !important;
+}
+.recaptcha_theme_clean #recaptcha_response_field {
+height: 25px !important;
+}
+#gglcptch_error {
+color: #F00;
+}
+.gglcptch table#recaptcha_table {
+table-layout: auto !important;
+} .gglcptch_whitelist_message {
+display: block;
+margin: 12px 0;
+}
+.gglcptch_v1,
+.gglcptch_v2 {
+min-width: 1px;
+padding: 10px 0;
+clear: both;
+} .rtl .gglcptch_v1 .recaptcha_r2_c1 {
+background: url(https://web.archive.org/web/20190118131127im_/https://www.google.com/recaptcha/api/img/red/sprite.png) -27px 0 no-repeat !important;
+}
+.rtl .gglcptch_v1 .recaptcha_r2_c2 {
+background: url(https://web.archive.org/web/20190118131127im_/https://www.google.com/recaptcha/api/img/red/sprite.png) -18px 0 no-repeat !important;
+}
+.rtl .gglcptch_v1 .recaptcha_r3_c1 {
+background: url(https://web.archive.org/web/20190118131127im_/https://www.google.com/recaptcha/api/img/red/sprite.png) -9px 0 no-repeat !important;
+}
+.rtl .gglcptch_v1 .recaptcha_r3_c3 {
+background: url(https://web.archive.org/web/20190118131127im_/https://www.google.com/recaptcha/api/img/red/sprite.png) 0 0 no-repeat !important;
+}
+/*
+     FILE ARCHIVED ON 13:11:27 Jan 18, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:06:08 Jan 11, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 315.218
+  exclusion.robots: 0.092
+  exclusion.robots.policy: 0.085
+  RedisCDXSource: 1.791
+  esindex: 0.008
+  LoadShardBlock: 283.314 (3)
+  PetaboxLoader3.resolve: 1223.87 (5)
+  PetaboxLoader3.datanode: 142.873 (5)
+  CDXLines.iter: 27.012 (3)
+  load_resource: 1213.492 (2)
+*/
